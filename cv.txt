@@ -1,0 +1,107 @@
+Dmitrii Totskii
+Senior Software Engineer (Backend)
+Armenia, Yerevan | +(374)44260885 | dimatocky@gmail.com | LinkedIn | Github
+
+SUMMARY:
+I have 8 years of experience in software development, contributing to the integration and maintenance of features in industries such as FinTech, Document Management, and Telecom. I have successfully led teams in delivering high-quality solutions, mentored junior developers, and driven key architectural decisions and system design principles to optimize performance and scalability.
+
+SKILLS: Python | Go | NodeJS | MySQL | PostgreSQL | Docker | Clean Architecture | System Design Principles | API Design | Cloud Computing | Jango | Echo | Chi-router
+
+
+PROFESSIONAL EXPERIENCE 
+
+
+FastDev (June 2021 - present), Stockholm, Sweden
+International Outsourcing Company (Remote | On-site)
+
+Python Developer 
+Implemented Python services to analyze large data sequences for a US-based sports betting company.
+Efficiently supported legacy Django code, improving code quality and refactoring it according to system design practices by enhancing the existing codebase and integrating new features.
+Optimized SQL performance by applying industry standards, such as backups, proper indexing configuration, and concurrent transactions.
+Improved system design and pipelines for various services, including containerization.
+Enhanced caching strategies, achieving a 5x performance improvement by optimizing database structures, adjusting DigitalOcean droplet configurations, and refining NitroPack settings.
+Served as Lead Developer and System Design Consultant.
+
+Go Developer
+Rewrote several services from Python to Go, improving overall performance by leveraging Go's concurrency benefits.
+Created simple REST API mock services that effectively reduced costs and payload for third-party commercial APIs.
+
+NodeJS Full Stack Developer
+Successfully participated the Core team Developed a REST API for a Telecom B2B product using GeoServer and Mapbox map providers.
+Refactored legacy code and implemented clean architecture practices.
+Enhanced PDF document generation for cellular coverage analysis by refactoring an overly complex codebase and integrating dependency injection using the "Awilix IoC container."
+Integrated the BankID authentication and authorization workflow from scratch for a medical clinic network in Sweden.
+Led the migration from Gatsby Cloud to Azure Cloud, implementing cost-efficient CI/CD pipelines using GitHub runners.
+Participated in technical reviews and expert interviews.
+
+JavaScript Developer
+Implemented a custom DBSCAN clustering algorithm for data visualization to meet customer requirements, avoiding third-party solutions.
+Designed data visualizations of cellular signal geo-positions on a canvas map using the Canvas API and pure JavaScript.
+Assisted in migrating from C++ map providers to web-based providers such as Bing, Baidu, and OpenLayers, contributing as a JavaScript expert with architectural experience.
+
+
+Russian Informational Technologies (July 2016 - June 2021), zhevsk, Russia
+FinTech | DocTech Company (On-site)
+
+Python Developer
+Developed a memory-efficient Python service to parse and analyze open-source documents able to identify affiliated companies using the Pandas and Matplotlib libraries.
+Built an image rendering application for 3D models, capable of generating a matrix of textured details for an online T-shirt constructor (producing over 30k full-HD renders in 24 hours using the Blender 3D EEVEE render engine).
+
+
+Go Developer
+Created the backend for a no-code platform for iOS and Android applications.
+Implemented key mobile API backend features for the Central Bank of the Russian Federation.
+Successfully supported existing code base and leverage over complicated code delivery processes
+Served as a tech lead, mentor, and expert.
+
+NodeJS Developer
+Developed an Excel document generation service for the Central Bank of the Russian Federation, reducing deployment overhead using the PE compilation approach and private npm packages. 
+Integrated new crypto providers (Jakarta, RuToken) for a local e-certificate authority platform, writing JavaScript code for physical test devices.
+
+JavaScript Developer
+Created a custom JavaScript library for generating Word documents using HTML.
+Developed a financial data visualization library by integrating the D3.js library.
+
+C# Developer
+Maintained several FinTech applications, fixing existing bugs.
+Integrated a new web-based UI while maintaining existing WPF and WinForm UIs.
+Consistently led the delivery of new features.
+
+
+CO-PROFESSIONAL LEADERSHIP (Pet projects)
+
+
+Go http-utils (Code Owner, 2024), Yerevan, Armenia
+Developed a simple testing library for native HTTP routers to avoid code duplication in my own projects.
+
+Go Networker (Code Owner, 2024), Yerevan, Armenia
+Created a simple application in GO for experimenting with “GO TEMPL”, HTMx, and Docker networks for my own articles.
+
+Telegram Bot Pet Project (Code Owner, 2023-2024), Tbilisi, Georgia
+Developed a Telegram bot with a fully cloud-managed infrastructure on Heroku Cloud.
+
+Altos Studio Backend (Code Owner, 2023-Present), Yerevan, Armenia
+Built the backend for an e-learning platform.
+
+
+EDUCATION
+
+UDSU, Izhevsk, Russia
+Publishing and Editing Bachelor Degree (2000-2006)
+
+
+CERTIFICATION/COURSES/LICENSES
+
+AWS Cloud Practitioner,  2023
+Algorithms for Searching and Indexing, Colorado Boulder University, 2024
+Trees and Graphs: Basics, Colorado Boulder University, 2024
+Dynamic Programming, Colorado Boulder University, 2024
+Programming with Go, University of California, Irvine, 2024
+
+ADDITIONAL INFORMATION
+Current visa status: Legal to work in Armenia (no need for visa support).
+Relocating to Spain within the next 6 months.
+Languages: Russian (native), English (upper-intermediate).
+Hobbies: Self-improvement, Arduino, algorithm theory, outdoor activities.
+Pursuing a Master’s degree in Computer Science.
+
