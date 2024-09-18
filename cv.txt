@@ -68,7 +68,7 @@ Developed a testing library for native HTTP routers to prevent code duplication 
 Go Networker (Code Owner, 2024) – Yerevan, Armenia
 Created an application in Go for experimenting with "GO TEMPL", HTMx, and Docker networks for technical articles.
 
-Telegram Bot Pet Project (Code Owner, 2023-2024) – Tbilisi, Georgia
+Alto-Studio Bot (Code Owner, 2023-2024) – Tbilisi, Georgia
 Developed a Telegram bot with a fully cloud-managed infrastructure hosted on Heroku.
 
 Altos Studio Backend (Code Owner, 2023-Present) – Yerevan, Armenia
@@ -79,11 +79,11 @@ UDSU, Izhevsk, Russia
 Bachelor's Degree in Publishing and Editing (2000-2006)
 
 CERTIFICATIONS/COURSES
-AWS Cloud Practitioner, 2023
-Algorithms for Searching and Indexing, Colorado Boulder University, 2024
-Trees and Graphs: Basics, Colorado Boulder University, 2024
-Dynamic Programming, Colorado Boulder University, 2024
-Programming with Go, University of California, Irvine, 2024
+AWS Cloud Practitioner (2023)
+Algorithms for Searching and Indexing (2024) – Colorado Boulder University
+Trees and Graphs: Basics (2024) – Colorado Boulder University
+Dynamic Programming (2024) – Colorado Boulder University
+Programming with Go (2024) – University of California, Irvine
 
 ADDITIONAL INFORMATION
 Legal to work in Armenia without visa support.
