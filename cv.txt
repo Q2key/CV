@@ -1,15 +1,12 @@
 Dmitrii Totskii
 Senior Software Engineer (Backend)
-Armenia, Yerevan | +(374)44260885 | dimatocky@gmail.com | LinkedIn | GitHub
+Armenia, Yerevan | +(374)44260885 | dimatocky@gmail.com | LinkedIn | Github
 
-SUMMARY
-With 8 years of experience in software development, I have contributed to feature integration and maintenance across FinTech, Document Management, and Telecom industries. I have led teams to deliver high-quality solutions, mentored junior developers, and made key architectural decisions that optimize performance and scalability.
+SUMMARY: With 8 years of experience in software development, I have contributed to feature integration and maintenance across FinTech, Document Management, and Telecom industries. I have led teams to deliver high-quality solutions, mentored junior developers, and made key architectural decisions that optimize performance and scalability.
 
-SKILLS
-Python | Go | NodeJS | MySQL | PostgreSQL | Docker | Clean Architecture | System Design Principles | API Design | Cloud Computing | Django | Echo | Chi-router
+SKILLS: Python | Go | NodeJS | MySQL | PostgreSQL | Docker | Clean Architecture | System Design Principles | API Design | Cloud Computing | Django | Echo | Chi-router
 
 PROFESSIONAL EXPERIENCE
-
 FastDev (June 2021 - Present) – Stockholm, Sweden (Remote | On-site)
 
 Python Developer
@@ -61,7 +58,6 @@ Maintained several FinTech applications, fixing bugs and delivering new features
 Integrated a web-based UI while maintaining legacy WPF and WinForm interfaces.
 
 CO-PROFESSIONAL LEADERSHIP (Pet Projects)
-
 Go http-utils (Code Owner, 2024) – Yerevan, Armenia
 Developed a testing library for native HTTP routers to prevent code duplication in personal projects.
 
