@@ -70,6 +70,15 @@ Developed a Telegram bot with a fully cloud-managed infrastructure hosted on Her
 Altos Studio Backend (Code Owner, 2023-Present) – Yerevan, Armenia
 Built the backend for an e-learning platform, enhancing user engagement and content management.
 
+
+Izhvesk Polygraphic Manufactory (Sep 2010 - May 2016) – Izhevsk, Russia
+
+Process Engineer
+Efficiently managed calibration processes and performed maintenance on printing machines.
+
+C# Developer
+Developed software for material control, leading to process automation.
+
 EDUCATION
 UDSU, Izhevsk, Russia
 Bachelor's Degree in Publishing and Editing (2000-2006)
